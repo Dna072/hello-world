@@ -1,2 +1,2 @@
 # hello-world
-Learning Git
+Hi, I'm Derrick and I'm Learning Git today,.. yaay!!
